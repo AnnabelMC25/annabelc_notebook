@@ -1,0 +1,36 @@
+---
+title: "Spring Semester Goals"
+author: "Annabel Coxon"
+date: "2006-03-04"
+categories: [goals, daily-entries]
+description: "Spring 2026 Goals"
+image: ""
+---
+
+# Overview
+
+Spring 2026 goals
+
+## Goals
+
+### Writing and Manuscripts
+
+1. Something
+
+### Analysis and Benchwork
+
+1. Something
+
+### Funding
+
+1. ~~Charles Center Proposal~~
+
+### Other
+
+1. Set up digital notebook
+
+# Primary Skill Building
+
+- [ ] something
+- [ ] something
+- [ ] something
