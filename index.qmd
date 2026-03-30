@@ -23,7 +23,7 @@ page-layout: full
 ::: {.content-card}
 ## About Me
 
-Your info!
+To do
 
 Here you'll find information about my research, outreach and education activities, and my comprehensive lab notebook documenting ongoing projects and findings.
 :::
