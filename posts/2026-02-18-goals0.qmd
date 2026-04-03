@@ -1,0 +1,34 @@
+---
+title: "April Goals"
+author: "Annabel Coxon"
+date: "2006-04-03"
+categories: [goals, daily-entries]
+description: "April 2026 Goals"
+image: ""
+---
+
+# Overview
+
+April 2026 goals
+
+## Goals
+
+### Writing and Manuscripts
+
+1. Something
+
+### Analysis and Benchwork
+
+### Funding
+
+1. Finish taxon spreadhseet
+
+### Other
+
+2. Continue setting up digital notebook
+
+# Primary Skill Building
+
+- [ ] something
+- [ ] something
+- [ ] something

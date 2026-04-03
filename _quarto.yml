@@ -15,7 +15,7 @@ website:
         href: notebook.qmd
       - text: "Lab Handbook"
         href: https://alcalalab.github.io/resources/
-      right:
+    right:
       - icon: github
         href: https://github.com/AnnabelMC25/annabelc_notebook/blob/main/posts/_template0.qmd
 
