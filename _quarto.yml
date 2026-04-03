@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Annabel Coxon"
-  #site-url: YOUR GITHUB
   #google-analytics: # something to come here
   site-url: https://github.com/AnnabelMC25/annabelc_notebook/blob/main/posts/_template0.qmd # you must change this appropriately for RSS feeds to work properly
   navbar:
@@ -16,8 +15,8 @@ website:
         href: notebook.qmd
       - text: "Lab Handbook"
         href: https://alcalalab.github.io/resources/
- #    right:
- #     - icon: github
+      right:
+      - icon: github
         href: https://github.com/AnnabelMC25/annabelc_notebook/blob/main/posts/_template0.qmd
 
   page-footer:
