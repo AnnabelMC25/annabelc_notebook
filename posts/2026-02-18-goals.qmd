@@ -7,30 +7,17 @@ description: "Spring 2026 Goals"
 image: ""
 ---
 
-# Overview
+
 
 Spring 2026 goals
 
-## Goals
-
-### Writing and Manuscripts
-
-1. Something
-
-### Analysis and Benchwork
-
-1. Something
-
-### Funding
 
 1. ~~Charles Center Proposal~~
 
-### Other
+2. Set up digital notebook
 
-1. Set up digital notebook
+3. Kinetoplastid taxonomy spreadsheet
 
-# Primary Skill Building
+4. Practice microscopy and cell extraction
 
-- [ ] something
-- [ ] something
-- [ ] something
+5. Build works cited page
