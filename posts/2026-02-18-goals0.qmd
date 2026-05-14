@@ -1,34 +1,33 @@
 ---
-title: "April Goals"
+title: "May Goals"
 author: "Annabel Coxon"
-date: "2006-04-03"
+date: "2006-05-14"
 categories: [goals, daily-entries]
-description: "April 2026 Goals"
+description: "Preparation for Charles Center Research"
 image: ""
 ---
 
 # Overview
 
-April 2026 goals
+Preparation for Charles Center Research
 
 ## Goals
 
 ### Writing and Manuscripts
 
-1. Something
+1. Kinetoplastid taxonomy spreadsheet
 
-### Analysis and Benchwork
+Accomplished:
+- recorded strain and accession number for each taxon
 
-### Funding
+To-do:
+- record which taxa are parasites/pathogens, add hosts and vectors for each
+- add Euglenazoans
 
-1. Finish taxon spreadhseet
+2. Reading
 
-### Other
+Accomplished:
+- added info from articles about kinetoplastid genomes to Charles Center slides
 
-2. Continue setting up digital notebook
-
-# Primary Skill Building
-
-- [ ] something
-- [ ] something
-- [ ] something
+To-do:
+- read about Euglenazoans and understand their biology (add to slides)
