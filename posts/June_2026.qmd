@@ -1,0 +1,41 @@
+---
+title: "June 2026 Goals"
+author: "Annabel Coxon"
+date: "2026-06-08"
+categories: [project-name, keyword1, keyword2]
+description: "Weekly schedule"
+draft: false
+---
+Week 6/8-6/12
+Run trypanosome taxonomy data through orthofinder
+- Create taxonomy spreadsheet - use only annotated or reference genomes
+- Run spreadsheet in orthofinder
+
+Week 6/15-6/19
+Species tree
+- Orthofinder
+  - Single-copy orthologs
+- Re-align SCO’s
+  - Build single-gene-trees
+  - Build species tree using MSC (multispecies coalescence) approach
+  - Build species tree with supermatrix approach
+- “Root-strapping”
+  - See if trees match, if not, compare to other publications
+
+SAG project
+
+Week 6/22-6/26 & 6/29-6/33
+Initial “de novo” genes
+- Take outputs from orthofinder - how many of these genes have just one taxon
+- Homology detection failure
+  - Run BLAST more sensitively
+  - Compare HMMs
+  - Structure - ESM-fold + Foldseek
+
+Gene family history
+- CAFE5 - evolved over time
+  - births/deaths
+  - expansions/contractions
+- Phylostratigraphy - relative aging
+  - Eukphylo DB (rough)
+  - Or use GenEra
